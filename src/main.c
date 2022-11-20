@@ -1,8 +1,6 @@
 # include <stdio.h>
 
-int main()
+void main()
 {
-    printf("Hello OscarTV23!\n");
-    return (0);       
+    printf("Hello OscarTV23!\n");       
 }
-
