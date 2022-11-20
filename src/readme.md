@@ -1,8 +1,11 @@
-# intro to c
-Primer programa en c
+# INTRO TO C
 
+ **Primer programa en c*
+____
+__Proceso:__
  > code
- ```c
+
+ ``` c
   # include <stdio.h>
 
 int main()
